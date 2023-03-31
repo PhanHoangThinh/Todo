@@ -1,0 +1,9 @@
+{
+    "complierOptions":{
+        "target":"ES6",
+        "module":"CommonJS",
+        "rootDir":"ts",
+        "outDir":"js",
+    },
+    "exclude": ["sever/*.ts"]
+}
